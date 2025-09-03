@@ -51,4 +51,3 @@ while opcao != "sair":
         case _:
             print("Opção não encontrada")
 
-    opcao = input("Entre com a opção: ")
